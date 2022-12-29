@@ -1,5 +1,4 @@
 # Comando vi no Linux (Editor de Textos) [Guia Básico]
-
 O Comando vi no Linux é um editor de textos ASCII poderoso e muito usado na interface de caractere do Linux para edição de arquivos e programas. Seu uso não é muito intuitivo à primeira vista, mas a edição simples de textos pode ser feita usando poucos comandos. 
 
 Ele pode ser muito útil para pequenas correções pontuais, principalmente em ambiente de produção. Então não é má ideia saber lidar com esse editor de textos universalmente disponível nas distribuições Linux.
